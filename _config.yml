@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "홍하늘"
-  avatar           : path of avatar image, e.g. "/assets/images/git_profile.jpg"
+  avatar           : path of avatar image, e.g. "/assets/img/git_profile.jpg"
   bio              : "느리지만 꾸준히"
   location         : "Seoul"
   email            :
